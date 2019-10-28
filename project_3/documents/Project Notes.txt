@@ -1,0 +1,39 @@
+
+[Requirements]
+
+1. title of thread
+2. the subreddit the thread corresponds to
+3. length of time up in reddit
+4. the number of comments on the thread
+
+0.8611111111111112
+
+0.9634920634920635
+0.8592592592592593
+
+True Positives: 225
+False Positives: 31
+False Negatives: 45
+True Negatives: 239
+
+Accuracy: 0.859
+Sensitivity: 0.833
+Specificity: 0.885
+Precision: 0.879
+
+--------------------------
+
+0.85
+
+0.9714285714285714
+0.8703703703703703
+
+True Positives: 225
+False Positives: 25
+False Negatives: 45
+True Negatives: 245
+
+Accuracy: 0.87
+Sensitivity: 0.833
+Specificity: 0.907
+Precision: 0.9
